@@ -1,2 +1,3 @@
-# altium_component_lib
-Shared Component Libraries for Altium Project
+# Component Libraries
+
+Component libraries for Altium Designer
