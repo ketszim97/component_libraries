@@ -1,4 +1,8 @@
-**/__Previews
-**/History
-**.LOG
-**.log
+/History/*
+/__Previews/*
+/component_libraries/
+/Project\ L*
+*.DS_Store
+*.htm
+/Templates/History/*
+/Templates/__Previews/*
